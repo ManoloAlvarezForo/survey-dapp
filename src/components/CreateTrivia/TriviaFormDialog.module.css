@@ -1,0 +1,50 @@
+/* TriviaFormDialog.module.css */
+
+.content {
+    padding: 80px 100px 100px 20px;
+  }
+  
+  .questionsContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .questionItem {
+    margin-bottom: 20px;
+  }
+
+  .buttonLeft {
+    display: flex;
+    margin-left: auto;
+    padding: 10px 0;
+  }
+
+  .buttonRight {
+    display: flex;
+    margin-right: auto;
+    padding: 10px 0;
+  }
+  
+  .questionContent {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 0;
+  }
+  
+  .answersContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .answerItem {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0;
+  }
+  
+  /* Agrega más estilos según sea necesario */
+  
